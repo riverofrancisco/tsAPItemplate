@@ -1,0 +1,83 @@
+[
+    {
+      "id": "1",
+      "rank": "admin",
+      "cart": [],
+      "fullname": "Admin User",
+      "email": "admin@example.com",
+      "location": [],
+      "lastLogin": null,
+      "banned": false
+    },
+    {
+      "id": "2",
+      "rank": "staff",
+      "cart": [],
+      "fullname": "Staff User",
+      "email": "staff@example.com",
+      "location": [],
+      "lastLogin": null,
+      "banned": false
+    },
+    {
+      "id": "3",
+      "rank": "client",
+      "cart": [],
+      "fullname": "Client User 1",
+      "email": "client1@example.com",
+      "location": [],
+      "lastLogin": null,
+      "banned": false
+    },
+    {
+      "id": "4",
+      "rank": "client",
+      "cart": [],
+      "fullname": "Client User 2",
+      "email": "client2@example.com",
+      "location": [],
+      "lastLogin": null,
+      "banned": false
+    },
+    {
+      "id": "5",
+      "rank": "client",
+      "cart": [],
+      "fullname": "Client User 3",
+      "email": "client3@example.com",
+      "location": [],
+      "lastLogin": null,
+      "banned": false
+    },
+    {
+      "id": "6",
+      "rank": "client",
+      "cart": [],
+      "fullname": "Client User 4",
+      "email": "client4@example.com",
+      "location": [],
+      "lastLogin": null,
+      "banned": false
+    },
+    {
+      "id": "7",
+      "rank": "client",
+      "cart": [],
+      "fullname": "Client User 5",
+      "email": "client5@example.com",
+      "location": [],
+      "lastLogin": null,
+      "banned": false
+    },
+    {
+      "id": "8",
+      "rank": "client",
+      "cart": [],
+      "fullname": "Client User 6",
+      "email": "client6@example.com",
+      "location": [],
+      "lastLogin": null,
+      "banned": false
+    }
+  ]
+  

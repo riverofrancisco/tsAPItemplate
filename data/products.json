@@ -1,0 +1,139 @@
+[
+    {
+      "model": "Sofá de tres plazas",
+      "lateral": false,
+      "fabric": "lienzo",
+      "description": "Sofá de tres plazas cómodo y espacioso.",
+      "color": "gris",
+      "mesures": [
+        {
+          "width": 200,
+          "height": 90,
+          "depth": 100
+        }
+      ],
+      "price": "599.99",
+      "rating": [],
+      "deleted": false
+    },
+    {
+      "model": "Silla de comedor",
+      "lateral": false,
+      "fabric": "lino",
+      "description": "Silla de comedor moderna y elegante.",
+      "color": "blanco",
+      "mesures": [
+        {
+          "width": 50,
+          "height": 80,
+          "depth": 50
+        }
+      ],
+      "price": "89.99",
+      "rating": [],
+      "deleted": false
+    },
+    {
+      "model": "Mesa de centro",
+      "lateral": false,
+      "fabric": "pana",
+      "description": "Mesa de centro resistente y de estilo industrial.",
+      "color": "negro",
+      "mesures": [
+        {
+          "width": 120,
+          "height": 40,
+          "depth": 70
+        }
+      ],
+      "price": "199.99",
+      "rating": [],
+      "deleted": false
+    },
+    {
+      "model": "Cama matrimonial",
+      "lateral": true,
+      "fabric": "lienzo",
+      "description": "Cama matrimonial amplia y cómoda con laterales.",
+      "color": "beige",
+      "mesures": [
+        {
+          "width": 160,
+          "height": 60,
+          "depth": 200
+        }
+      ],
+      "price": "799.99",
+      "rating": [],
+      "deleted": false
+    },
+    {
+      "model": "Armario de roble",
+      "lateral": false,
+      "fabric": "lino",
+      "description": "Armario de roble con amplio espacio de almacenamiento.",
+      "color": "marrón",
+      "mesures": [
+        {
+          "width": 150,
+          "height": 220,
+          "depth": 60
+        }
+      ],
+      "price": "1299.99",
+      "rating": [],
+      "deleted": false
+    },
+    {
+      "model": "Escritorio de madera",
+      "lateral": false,
+      "fabric": "pana",
+      "description": "Escritorio de madera resistente y elegante.",
+      "color": "marrón",
+      "mesures": [
+        {
+          "width": 120,
+          "height": 75,
+          "depth": 60
+        }
+      ],
+      "price": "299.99",
+      "rating": [],
+      "deleted": false
+    },
+    {
+      "model": "Lámpara de pie",
+      "lateral": false,
+      "fabric": "lino",
+      "description": "Lámpara de pie moderna y ajustable.",
+      "color": "negro",
+      "mesures": [
+        {
+          "width": 30,
+          "height": 160,
+          "depth": 30
+        }
+      ],
+      "price": "79.99",
+      "rating": [],
+      "deleted": false
+    },
+    {
+      "model": "Estantería modular",
+      "lateral": false,
+      "fabric": "lienzo",
+      "description": "Estantería modular versátil y espaciosa.",
+      "color": "blanco",
+      "mesures": [
+        {
+          "width": 100,
+          "height": 180,
+          "depth": 40
+        }
+      ],
+      "price": "149.99",
+      "rating": [],
+      "deleted": false
+    }
+  ]
+  
